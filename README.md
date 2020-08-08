@@ -36,20 +36,20 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-
+Comming Soon
 <!-- YOUTUBE:END -->
 
 ---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+Comming Soon
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
+<!--
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
+-->
 [website]: https://joelparavara.com
 [twitter]: https://www.twitter.com/JoelThomson15
 [instagram]: https://instagram.com/aspiring_dude
