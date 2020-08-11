@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.com/joelparavara/joelparavara.svg?branch=master)](https://travis-ci.com/joelparavara/joelparavara)
-
 ### Hi there, I'm [Joel][website] 👋
 
 ## I'm a Design Enthusiast, Developer, and Explorer!
