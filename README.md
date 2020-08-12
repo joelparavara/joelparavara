@@ -43,7 +43,6 @@ Comming Soon
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-Comming Soon
 <!-- BLOG-POST-LIST:END -->
 
 ---
