@@ -36,6 +36,9 @@
 <br />
 <br />
 
+### Overview of my contributions on Github 
+![](https://github-readme-stats.vercel.app/api?username=joelparavara&count_private=true&theme=dark&show_icons=true)
+
 ---
 
 ### 📺 Latest YouTube Videos
@@ -47,11 +50,12 @@ Comming Soon
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+Comming Soon
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=joelparavara&show_icons=true&hide_border=true" />
+<!-- img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=joelparavara&show_icons=true&hide_border=true"/ -->
 
 [website]: https://joelparavara.com
 [twitter]: https://www.twitter.com/JoelThomson15
