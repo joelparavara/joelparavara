@@ -1,10 +1,10 @@
 ### Hi there, I'm [Joel][website] 👋
 
 ## I'm a Design Enthusiast, Developer, and Explorer!
-- 🧑‍💻 I’m currently working on an [iOS for Beginners Course][website]!
-- 🌱 I’m currently learning node.js, MongoDB & Flutter
-- 👯 I’m looking to collaborate with other iOS/Flutter Developers
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🧑‍💻 I’m currently building a platform for aspiring entrepreneurs [Techcrus Labs][website]!
+- 🌱 I’m currently learning node.js & Flutter
+- 👯 Open for UX Design collabs
+- 🥅 2020 Goals: Develop 10+ apps with original UI/UX Designs
 - ✨ Fun fact: I love to Sketch & Play guitar
 
 ### Connect with me:
