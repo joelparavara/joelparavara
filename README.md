@@ -4,7 +4,7 @@
 - 🧑‍💻 I’m currently building a platform for aspiring entrepreneurs [Techcrus Labs][website]!
 - 🌱 I’m currently learning node.js & Flutter
 - 👯 Open for UX Design collabs
-- 🥅 2020 Goals: Develop 10+ apps with original UI/UX Designs
+- 🥅 2021 Goals: Develop 10+ apps with original UI/UX Designs
 - ✨ Fun fact: I love to Sketch & Play guitar
 
 ### Connect with me:
